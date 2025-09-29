@@ -2,6 +2,8 @@
 
 This project focuses on analyzing bank loan data to evaluate customer profiles, loan performance, and financial risk patterns. The goal is to extract actionable insights that can support better decision-making in lending operations.
 
+Jupitor File - https://github.com/aryanchuadhary/Bank-Loan-Analysis/blob/main/Finance%20Domain.ipynb
+
 Key Highlights
 
 Data Cleaning & Preparation: Handled missing values, outliers, and data normalization for accurate results.
